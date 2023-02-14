@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BotHoroscope</id>
+    <version>1.0.0</version>
+    <authors>BotHoroscope</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="EPPlus.System.Drawing" version="6.1.1" exclude="Build,Analyzers" />
+        <dependency id="System.Resources.Extensions" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\0ppal\source\repos\BotHoroscope\BotHoroscope\bin\Release\net6.0\BotHoroscope.runtimeconfig.json" target="lib\net6.0\BotHoroscope.runtimeconfig.json" />
+    <file src="C:\Users\0ppal\source\repos\BotHoroscope\BotHoroscope\bin\Release\net6.0\BotHoroscope.dll" target="lib\net6.0\BotHoroscope.dll" />
+  </files>
+</package>
